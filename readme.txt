@@ -1,2 +1,1 @@
-new
-This is a test readme file.
+This is the master branch.
