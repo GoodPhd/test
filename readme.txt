@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+this is bug branch.
+>>>>>>> aedf55e... fix bug
 This is the master branch.
 =======
 new branch
